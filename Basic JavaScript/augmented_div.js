@@ -1,6 +1,6 @@
-// Waiting: a should equal 4.
-// Waiting: b should equal 27.
-// Waiting: c should equal 3.
+//  a should equal 4.
+//  b should equal 27.
+//  c should equal 3.
 
 let a = 48;
 let b = 108;
