@@ -1,0 +1,13 @@
+//  The code should not contain a global myVar variable.
+//  You should add a local myVar variable.
+
+function myLocalScope() {
+    // Only change code below this line
+    let myVar = 5; 
+    console.log('inside myLocalScope', myVar);
+  }
+  myLocalScope();
+  
+  // Run and check the console
+  // myVar is not defined outside of myLocalScope
+  console.log('outside myLocalScope', myVar);
